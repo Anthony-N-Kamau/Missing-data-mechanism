@@ -2,7 +2,7 @@
 
 David J. Hand, in his book *Dark Data: Why What You Don't Know Matters*, describes missing data as data you don't have — perhaps data you wish you had, or hoped to have, or thought you had, but nonetheless data you don't have.
 
-Missing data are everywhere, and data scientists need to understand when which methods do and don't work. Missing data problems are at the heart of data analysis.
+Missing data are everywhere and data scientists need to understand when which methods do and don't work. Missing data problems are at the heart of data analysis.
 
 ## Why missing data matters
 
@@ -11,7 +11,7 @@ Missing data are everywhere, and data scientists need to understand when which m
 3. On average, it leads to wrong estimates of interest (systematic bias).
 4. It makes prediction errors seem better than they will be in reality (systematic bias).
 
-Missing data are not just annoying but can also bias your analysis — means, trends, covariances, prediction models, etc.
+Missing data are not just annoying but can also bias your analysis i.e  means, trends, covariances, prediction models, etc.
 
 ## How missing data is coded
 
