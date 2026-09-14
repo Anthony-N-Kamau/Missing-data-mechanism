@@ -1,4 +1,4 @@
-# Missing Data Mechanisms
+# Missing Data Mechanisms (NDD, SDD and UDD) 
 
 David J. Hand, in his book *Dark Data: Why What You Don't Know Matters*, describes missing data as data you don't have — perhaps data you wish you had, or hoped to have, or thought you had, but nonetheless data you don't have.
 
